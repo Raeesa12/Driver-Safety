@@ -1,6 +1,6 @@
 # DriveIQ: Personalized Road Safety & Introspection Platform
 
-> **Tagline:** **Empowering every driver to shift from risk to safety through data-driven self-reflection and measurable insights.**
+> **Empowering every driver to shift from risk to safety through data-driven self-reflection and measurable insights.**
 
 ---
 
