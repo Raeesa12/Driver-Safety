@@ -1,0 +1,8 @@
+Feature,Low-Risk Cluster (Avg Score),High-Risk Cluster (Avg Score)
+"Exceed Speed (0=Never, 3=Very often)",0.5,2.5
+"Phone Use (0=Never, 3=Always)",0.4,2.0
+"Seatbelt (0=Always, 3=Never)",0.1,2.5
+"Service Car (0=Always, 3=Never)",0.2,1.5
+"Driving Style (0=Slow, 3=Very speedy)",0.5,2.8
+"Confidence (0=Extremely, 3=Not very)",0.5,1.8
+"Fines (0=0, 3=>5)",0.1,2.2

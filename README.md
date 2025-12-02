@@ -1,12 +1,12 @@
-# DriveIQ: Personalized Road Safety & Introspection Platform
+# (Name): Personalized Road Safety & Introspection Platform
 
 > **Empowering every driver to shift from risk to safety through data-driven self-reflection and measurable insights.**
 
 ---
 
-### 1. The Mission: Why DriveIQ?
+### 1. The Mission: Why (Name)?
 
-Traditional road safety measures often treat driving as an external regulatory problem. **DriveIQ** flips this approach by providing a powerful, personalized tool for **self-introspection**.
+Traditional road safety measures often treat driving as an external regulatory problem. **(Name)** flips this approach by providing a powerful, personalized tool for **self-introspection**.
 
 We translate complex telematics data into simple, actionable metrics that reveal *why* a driver is risky or safe. By giving drivers a clear, objective **mirror** of their own habits, we motivate a continuous cycle of learning, better decision-making, and proactive improvement—making the driver the chief agent of road safety.
 
@@ -14,7 +14,7 @@ We translate complex telematics data into simple, actionable metrics that reveal
 
 ### 2. Key Features
 
-DriveIQ provides the tools necessary to analyze behavior and chart a path to safer driving:
+(Name) provides the tools necessary to analyze behavior and chart a path to safer driving:
 
 * **Personalized Risk Score:** An objective, calculated metric that quantifies the risk level of a driver based on recent activity (Lower score = Safer).
 * **Behavioral Deep Dive:** Visualize frequency and severity of specific risky events (e.g., harsh braking, rapid acceleration, speeding duration) with contextual maps and timestamps.
@@ -26,7 +26,7 @@ DriveIQ provides the tools necessary to analyze behavior and chart a path to saf
 
 ### 3. Getting Started
 
-To run the DriveIQ dashboard locally, follow these simple steps.
+To run the (Name) dashboard locally, follow these simple steps.
 
 #### Prerequisites
 * Python 3.8+
@@ -35,7 +35,7 @@ To run the DriveIQ dashboard locally, follow these simple steps.
 #### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Raeesa12/Driver-Safety.git]
+    git clone https://github.com/Raeesa12/Driver-Safety.git
     ```
 2.  **Install dependencies:**
     ```bash
@@ -53,10 +53,10 @@ To run the DriveIQ dashboard locally, follow these simple steps.
 
 * **UI/Framework:** Streamlit
 * **Data Processing:** Pandas
-* **Visualization:** Plotly (or Matplotlib/Altair)
+* **Visualization:** Plotly (or Matplotlib)
 * **Language:** Python
 
 ---
 
 
-**Developed by:** [AnalytIQ]
+**Developed by:** AnalytIQ
