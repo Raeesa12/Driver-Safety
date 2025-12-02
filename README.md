@@ -1,12 +1,12 @@
-# (Name): Personalized Road Safety & Introspection Platform
+# DriverIQ: Personalized Road Safety & Introspection Platform
 
 > **Empowering every driver to shift from risk to safety through data-driven self-reflection and measurable insights.**
 
 ---
 
-### 1. The Mission: Why (Name)?
+### 1. The Mission: Why DriverIQ?
 
-Traditional road safety measures often treat driving as an external regulatory problem. **(Name)** flips this approach by providing a powerful, personalized tool for **self-introspection**.
+Traditional road safety measures often treat driving as an external regulatory problem. **DriverIQ** flips this approach by providing a powerful, personalized tool for **self-introspection**.
 
 We translate complex telematics data into simple, actionable metrics that reveal *why* a driver is risky or safe. By giving drivers a clear, objective **mirror** of their own habits, we motivate a continuous cycle of learning, better decision-making, and proactive improvement—making the driver the chief agent of road safety.
 
@@ -26,7 +26,7 @@ We translate complex telematics data into simple, actionable metrics that reveal
 
 ### 3. Getting Started
 
-To run the (Name) dashboard locally, follow these simple steps.
+To run the DriverIQ dashboard locally, follow these simple steps.
 
 #### Prerequisites
 * Python 3.8+
