@@ -1,0 +1,40 @@
+{
+  "model_path": "seatbelt_detector.pt",
+  "classes": [
+    "Open Eye",
+    "Closed Eye",
+    "Phone",
+    "Seatbelt"
+  ],
+  "class_colors": {
+    "Open Eye": [
+      0,
+      255,
+      255
+    ],
+    "Closed Eye": [
+      0,
+      200,
+      100
+    ],
+    "Phone": [
+      255,
+      0,
+      255
+    ],
+    "Seatbelt": [
+      255,
+      255,
+      0
+    ],
+    "Seatbelt_ON_Person": [
+      0,
+      255,
+      0
+    ]
+  },
+  "confidence_threshold": 0.25,
+  "driver_region_threshold": 0.6,
+  "eye_distance_threshold": 0.4,
+  "version": "1.0"
+}
